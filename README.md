@@ -26,7 +26,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <h1>About Me</h1>
 <table>
   <tr>
-    <td width="100%">
+    <td width="65%">
     <p>I am an aspiring <strong>AI Engineer</strong> with a passion for building intelligent software that solves real-world problems.</p>
     <h3>My primary interests include:</h3>
     <ul>
