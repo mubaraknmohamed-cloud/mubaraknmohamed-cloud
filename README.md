@@ -42,10 +42,6 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
     </ul>
     <p>I enjoy turning data into intelligent applications while continuously exploring the latest AI technologies.</p>
     </td>
-    <td width="35%" align="center">
-      <!-- Your Profile URL Here You can use the profile picture from your Linkedin -->
-      <img src="Image Address Here">
-    </td>
   </tr>
 </table>
 <h1> AI Technology Stack</h1>
