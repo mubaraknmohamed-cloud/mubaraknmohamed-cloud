@@ -27,7 +27,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="65%">
-    <p>I am an aspiring <strong>AI Engineer</strong> with a passion for building intelligent software that solves real-world problems.</p>
+    <p>I am an aspiring <strong>AI Engineer</strong> with a passion for building intelligent software that solves real-world problems. A motivated Junior AI Engineer with foundational knowledge of artificial intelligence, machine learning, Python, data analysis and AWS Cloud, supported by industry-recognised certifications and practical AI engineering projects. Eager to continue developing technical skills while contributing to AI solutions within a collaborative engineering team.</p>
     <h3>My primary interests include:</h3>
     <ul>
       <li>Artificial Intelligence</li>
