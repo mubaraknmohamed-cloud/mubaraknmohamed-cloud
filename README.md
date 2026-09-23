@@ -19,7 +19,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <a href="mailto:YourEmailHere">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YourGitHubProfileHere">
+<a href="[YourGitHubProfileHere](https://github.com/mubaraknmohamed-cloud#)">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </div>
