@@ -189,7 +189,7 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 </div>
 <h1> Activity Graph </h1>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true"/>
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsernameHere&bg_color=0d1117&color=9be9a8&line=3fb950&point=2ea043&area=true&area_color=3fb950&hide_border=true](https://gitcolors.vercel.app/api/svg?username=mubaraknmohamed-cloud&color=2bc651&theme=dark&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: dark)" /> <source srcset="https://gitcolors.vercel.app/api/svg?username=mubaraknmohamed-cloud&color=2bc651&theme=light&mode=mono&preset=none&animate=true&emptyColor=filled" media="(prefers-color-scheme: light)" /> <img src="https://gitcolors.vercel.app/api/svg?username=mubaraknmohamed-cloud&color=2bc651&theme=light&mode=mono&)"/>
 </div>
 <h1> Visitor Count </h1>
 <div align="center">
