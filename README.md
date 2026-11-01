@@ -165,23 +165,23 @@ features.
   <tr>
     <td>
       <ul>
-        <li>Topic 1, LangGraph</li>
-        <li>Topic 2, AI Agents</li>
-        <li>Topic 3, Multi-Agent Systems</li>
+        <li>LangGraph</li>
+        <li>AI Agents</li>
+        <li>Multi-Agent Systems</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>Topic 4, Hugging Face Transformers</li>
-        <li>Topic 5, LlamaIndex</li>
-        <li>Topic 6, Advanced OpenAI API usage</li>
+        <li>Hugging Face Transformers</li>
+        <li>LlamaIndex</li>
+        <li>Advanced OpenAI API usage</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>Topic 7, Kubernetes for MLOps</li>
-        <li>Topic 8, Model Deployment Strategies</li>
-        <li>Topic 9, Vector Search Optimization</li>
+        <li>Kubernetes for MLOps</li>
+        <li>Model Deployment Strategies</li>
+        <li>Vector Search Optimization</li>
       </ul>
     </td>
   </tr>
