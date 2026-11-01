@@ -122,38 +122,41 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
 <table>
   <tr>
     <td width="50%">
-      <h3>[Project Title 1: e.g., AI Resume Analyzer]</h3>
+      <h3>Project Title 1: Fine-Tuned Sentiment Analysis System with Production Hardening</h3>
       <p>
-      Evaluates resumes against job descriptions using NLP and Machine Learning.
+      Fine-tuned a DistilBERT model for sentiment classification and implemented production safeguards to improve reliability,
+security, and model evaluation.
       </p>
-      <b>Technology</b>
-      Python • NLP • Streamlit • Machine Learning
+      <b>Tools:</b>
+      Python, Hugging Face Transformers, PyTorch, Streamlit, scikit-learn, pandas.
     </td>
     <td width="50%">
-      <h3>[Project Title 2: e.g., AI Chatbot with RAG]</h3>
+      <h3>Project Title 2: Retrieval-Augmented Generation (RAG) Pipeline</h3>
       <p>
-      Answers questions using private documents with Retrieval-Augmented Generation.
+      Developed a two-stage Retrieval-Augmented Generation pipeline for document indexing and retrieval using modern AI
+frameworks.
       </p>
-      <b>Technology</b>
-      Python • LangChain • OpenAI • FAISS • Chroma
+      <b>Tools:</b>
+      Python, LangChain, ChromaDB, OpenAI API, scikit-learn, Prompt Engineering.
     </td>
   </tr>
   <tr>
     <td>
-      <h3>[Project Title 3: e.g., Data Analytics Dashboard]</h3>
+      <h3>Project Title 3: Used Car Price Predictor</h3>
       <p>
-      Interactive dashboard for exploring datasets and generating insights.
+      Developed an end-to-end machine learning regression pipeline to predict used vehicle prices using structured and engineered
+features.
       </p>
-      <b>Technology</b>
-      Pandas • NumPy • Matplotlib • Streamlit
+      <b>Tools:</b>
+      Python, scikit-learn, pandas, NumPy, Streamlit, joblib.
     </td>
     <td>
-      <h3>[Project Title 4: e.g., Sentiment Analysis]</h3>
+      <h3>Project Title 4: Machine Learning Regression Pipeline - House Price Prediction</h3>
       <p>
-      Natural Language Processing application for sentiment classification.
+      Built a supervised machine learning regression model to predict house prices using the California Housing dataset.
       </p>
-      <b>Technology</b>
-      Python • Scikit-Learn • NLP
+      <b>Tools:</b>
+      Python, scikit-learn, pandas, NumPy, matplotlib.
     </td>
   </tr>
 </table>
@@ -162,23 +165,23 @@ Retrieval-Augmented Generation (RAG), AI Agents, and Cloud Technologies.
   <tr>
     <td>
       <ul>
-        <li>[Topic 1, e.g., LangGraph]</li>
-        <li>[Topic 2, e.g., AI Agents]</li>
-        <li>[Topic 3, e.g., Multi-Agent Systems]</li>
+        <li>Topic 1, LangGraph</li>
+        <li>Topic 2, AI Agents</li>
+        <li>Topic 3, Multi-Agent Systems</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>[Topic 4, e.g., Hugging Face Transformers]</li>
-        <li>[Topic 5, e.g., LlamaIndex]</li>
-        <li>[Topic 6, e.g., Advanced OpenAI API usage]</li>
+        <li>Topic 4, Hugging Face Transformers</li>
+        <li>Topic 5, LlamaIndex</li>
+        <li>Topic 6, Advanced OpenAI API usage</li>
       </ul>
       </td>
       <td>
       <ul>
-        <li>[Topic 7, e.g., Kubernetes for MLOps]</li>
-        <li>[Topic 8, e.g., Model Deployment Strategies]</li>
-        <li>[Topic 9, e.g., Vector Search Optimization]</li>
+        <li>Topic 7, Kubernetes for MLOps</li>
+        <li>Topic 8, Model Deployment Strategies</li>
+        <li>Topic 9, Vector Search Optimization</li>
       </ul>
     </td>
   </tr>
